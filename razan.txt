@@ -1,1 +1,47 @@
-# Hello
+
+q1 : 
+
+git status 
+It is a command in Git used to show me the status of the file in my project and give me a report or what new work I have done to the file that Git has not added yet. .
+
+git init
+Starting a new project is important in Git, as it tracks file versions. Typing the command allows Git to create a hidden program folder, .git, that contains all the information needed to track the file.
+
+initializes a new git repository
+
+git commit:
+When uploading a file to GitHub, there must be a clear and concise message about this file that the user can easily understand.
+
+git push:
+It is a command that I use to upload a folder or file to GitHub.
+
+////////////////////////////////////////////////////
+
+q2:
+
+I disagree with Ahmed's opinion. The git add command is important because it helps us identify changes that affect other files.
+It gives us better control over files and makes it easier to save and organize them. If we're working on multiple changes and there are more than one person holding the code, without git add, we can't specify which files to commit, making it easier to work with the team.
+In short, it specifies which files should be in the next file.
+
+/////////////////////////////////////////////////////
+
+q3
+a:GitLab
+
+Bitbucket
+
+b:
+Access control
+Branching and Merging
+Git repositories
+
+c:true
+
+////////////////////////////////////////////////////////
+
+q4:
+The -u command in git push -u origin main binds the current connection to the file after it has been linked.
+You can use git push and git pull without having to sign the remote machine name or branch in the future, because Git knows exactly where to bind
+
+.
+
